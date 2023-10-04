@@ -33,4 +33,12 @@
 3.
 En Utilisant KAFKA et Stpring Cloud Streams, Créer :<br><br>
 - Un Service Producer KAFKA via un Rest Controler <br><br>
-- 
+- <img src="captures/img12.png"><br><br>
+- Un Service Consumer KAFKA<br><br>
+- <img src="captures/img13.png"><br><br>
+- Un Service Supplier KAFKA<br><br>
+- <img src="captures/img14.png"><br><br>
+- Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams<br><br>
+- <img src="captures/img15.png"><br><br>
+- Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel<br><br>
+- <img src="captures/img16.png"><br><br>
