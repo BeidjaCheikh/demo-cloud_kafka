@@ -30,3 +30,7 @@
 - <img src="captures/img10.png"><br><br>
 - kafka-console-consumer
 - <img src="captures/img11.png"><br><br>
+3.
+En Utilisant KAFKA et Stpring Cloud Streams, Créer :<br><br>
+- Un Service Producer KAFKA via un Rest Controler <br><br>
+- 
