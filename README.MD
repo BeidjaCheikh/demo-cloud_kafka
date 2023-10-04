@@ -34,6 +34,7 @@
 En Utilisant KAFKA et Stpring Cloud Streams, Créer :<br><br>
 - Un Service Producer KAFKA via un Rest Controler <br><br>
 - <img src="captures/img12.png"><br><br>
+- <img src="captures/img21.png"><br><br>
 - Un Service Consumer KAFKA<br><br>
 - <img src="captures/img13.png"><br><br>
 - <img src="captures/img19.png"><br><br>
